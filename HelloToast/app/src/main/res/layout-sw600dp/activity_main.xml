@@ -11,7 +11,7 @@
         android:layout_width="398dp"
         android:layout_height="87dp"
         android:background="@color/colorPrimary"
-        android:lineHeight="wrap_content"
+
         android:onClick="showToast"
         android:text="@string/button_label_toast"
         android:textColor="@android:color/white"
